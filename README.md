@@ -13,3 +13,6 @@ Using Ubuntu 20.04:
     cd run
     java -jar ../build/libs/proximity*-all.jar --cards=../decklist.txt --template=normal
 
+A note for myself:
+
+    --override=set:xlcu
